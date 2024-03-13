@@ -2,7 +2,7 @@
 ## Team Members
 |std_id|Name|
 |--------|-|
-20K-0132 - Bilal Noonari
+20K-0132 | Bilal Noonari
 
 
 ## Assingment 1 ##
